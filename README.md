@@ -1,0 +1,1 @@
+This is a course project done by me in Edge program with the course name of "Python and Basic Data Science". This project predicts used car's price using random forest regression and linear regression in scikit-learn.
